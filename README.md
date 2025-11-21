@@ -62,11 +62,10 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="gmail:smurodjon983@gmail.com">📧 Email me</a> | 
-  <a href="https://www.linkedin.com/in/murodjon-sotiboldiyev-651890347/">🔗 LinkedIn</a> | 
-  <a href="https://your-portfolio-link.com">🌐 Portfolio</a>
+  📧 <strong>smurodjon983@gmail.com</strong>  
+  🔗 <a href="https://www.linkedin.com/in/murodjon-sotiboldiyev-651890347/">LinkedIn</a>  
+  🌐 <a href="https://your-portfolio-link.com">Portfolio</a>
 </p>
-
 
 ---
 
