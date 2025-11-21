@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=0D99FF&center=true&vCenter=true&lines=Hi+there+👋;I'm+Murodjon+Sotiboldiyev;Full-Stack+Developer+%7C+NestJS+%7C+React+%7C+TypeScript" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=0D99FF&center=true&vCenter=true&width=1200&lines=Hi+there+👋+I'm+Murodjon+Sotiboldiyev;Full-Stack+Developer+%7C+NestJS+%7C+React+%7C+TypeScript" alt="Typing SVG"/>
+
 </p>
 
 <p align="center">
@@ -61,10 +62,11 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 ## 📫 Contact Me
 <p align="center">
-  [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smurodjon983@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murodjon-sotiboldiyev-651890347/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge)](https://your-portfolio-link.com)
+  <a href="mailto:smurodjon983@gmail.com">📧 Email me</a> | 
+  <a href="https://www.linkedin.com/in/murodjon-sotiboldiyev-651890347/">🔗 LinkedIn</a> | 
+  <a href="https://your-portfolio-link.com">🌐 Portfolio</a>
 </p>
+
 
 ---
 
