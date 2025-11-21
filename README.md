@@ -53,7 +53,7 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 ## ⏱ WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=murodjon&layout=compact&theme=radical" />
 </p>
 
 ---
