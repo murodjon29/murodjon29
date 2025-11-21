@@ -61,7 +61,7 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 ## 📫 Contact Me
 <p align="center">
-  [![Email](https://img.shields.io/badge/Email-smurodjon983@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smurodjon983@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smurodjon983@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murodjon-sotiboldiyev-651890347/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge)](https://your-portfolio-link.com)
 </p>
