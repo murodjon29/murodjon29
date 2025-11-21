@@ -8,7 +8,7 @@
 
 ---
 
-## 🌈 About Me
+##  About Me
 I'm a **Full-Stack Developer** passionate about building modern web applications with **clean code**, scalable architecture, and great **UI/UX**.  
 I enjoy learning new technologies and improving my coding skills daily.
 
