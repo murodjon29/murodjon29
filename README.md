@@ -43,8 +43,8 @@ Here are some of the projects I have worked on:
 
 ## 📫 Contact Me
 
-- Email: **murodjon@example.com**  
-- LinkedIn: [https://www.linkedin.com/in/murodjon](https://www.linkedin.com/in/murodjon](https://www.linkedin.com/in/murodjon-sotiboldiyev-651890347/)  
+- Email: **smurodjon983@gmail.com**  
+- LinkedIn: [https://www.linkedin.com/in/murodjon-sotiboldiyev-651890347/)  
 - Portfolio: 
 
 ---
